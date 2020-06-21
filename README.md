@@ -15,23 +15,16 @@ OperationType + Description + FunctionalModule (Demo: Add ChangePassword in Logi
     + BugFix
 
 # File Structure
-
+```
 |-- images        // public pictures
-
 |-- lib           // public files
-
 |-- pages         // 
-
 |   |-- index     // home page
-
 |   |-- logs      // log page
-
 |-- utils         // 
-
 |   |-- util      // tools
-
 |-- README        // 
-
+```
 # References
 
 WeChat Mini Program Official Document：[https://developers.weixin.qq.com/miniprogram/dev/framework/](https://developers.weixin.qq.com/miniprogram/dev/framework/)
