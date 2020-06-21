@@ -18,12 +18,12 @@ OperationType + Description + FunctionalModule (Demo: Add ChangePassword in Logi
 ```
 |-- images        // public pictures
 |-- lib           // public files
-|-- pages         // 
+|-- pages         
 |   |-- index     // home page
 |   |-- logs      // log page
 |-- utils         // 
 |   |-- util      // tools
-|-- README        // 
+|-- README        
 ```
 # References
 
