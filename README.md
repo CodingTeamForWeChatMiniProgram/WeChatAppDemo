@@ -17,12 +17,19 @@ OperationType + Description + FunctionalModule (Demo: Add ChangePassword in Logi
 # File Structure
 
 |-- images        // public pictures
+
 |-- lib           // public files
+
 |-- pages         // 
+
 |   |-- index     // home page
+
 |   |-- logs      // log page
+
 |-- utils         // 
+
 |   |-- util      // tools
+
 |-- README        // 
 
 # References
